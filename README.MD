@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm Alex, a graduate student at Columbia University. I study in the Industrial Engineering and Operations Research department, taking courses in machine learning, optimzation, and statistics.
+I'm Alex, a graduate student at Columbia University. I study in the Industrial Engineering and Operations Research department, taking courses in machine learning, optimization, and statistics.
 
 ## Projects
 * [Pysqlgui](https://github.com/atc2146/pysqlgui): A Python package I built that allows you to interface with SQL in Python.  Developed using Python's sqlite3 module, this package allows you to create databases in memory and query them using SQL.  Published on [PyPi](https://pypi.org/project/pysqlgui/).
