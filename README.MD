@@ -7,4 +7,5 @@ I'm Alex. Previously, I studied at Columbia University and received my graduate 
 * [NYC Arrests](https://github.com/atc2146/NYC-Arrests): A data visualization of arrests in NYC created using [Tableau](https://public.tableau.com/app/profile/atcwy/viz/NYPDArrests/Arrests). Data was pulled in Python using the NYC OpenData API.
 * [Flowers for Algernon NLP](https://github.com/atc2146/flowers-for-algernon-nlp): An analysis of the book Flowers for Algeron using Natural Language Processing.  Also includes a [Tableau](https://public.tableau.com/views/FlowersforAlgernon-TextAnalysisandNLP/Main?:language=en-US&:display_count=n&:origin=viz_share_link) dashboard.  
 
-Find me on [LinkedIn](https://www.linkedin.com/in/atcwy/) or [Tableau](https://public.tableau.com/app/profile/atcwy/vizzes).
+Find me on [LinkedIn](https://www.linkedin.com/in/atcwy/), [Tableau](https://public.tableau.com/app/profile/atcwy/vizzes), or [LeetCode](https://leetcode.com/atcwy/).
+
